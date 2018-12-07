@@ -1,0 +1,14 @@
+{
+    "test": "value",
+    "secret": "7889f491-845c-4cf4-893a-1680b00b8cbb",
+    "database": "mongo",
+    "mongo": {
+        "host": "",
+        "port": "",
+        "username": "",
+        "password": "",
+        "database": "nodebb",
+        "uri": "mongodb://heroku_v1jsfc6v:p3u20gepht2v6vejqqrcbik5rq@ds125821.mlab.com:25821/heroku_v1jsfc6v"
+    },
+    "port": 3002
+}
